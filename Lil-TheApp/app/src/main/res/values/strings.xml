@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lil - The App</string>
+    <string name="title_activity_main">Lil - The App!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_impressum">Impressum</string>
+    <string name="copri">Copyright &#169; Sebastian Plangger</string>
+</resources>
